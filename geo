@@ -592,3 +592,49 @@ NV
 Nevada
 NM
 New Mexico
+
+Mexico City
+
+Shanghai
+Beijing
+Shenzhen
+Guangzhou
+Hong Kong
+Singapore
+
+Tianjin
+Lagos
+
+Karachi
+Istanbul
+turkey
+Tokyo
+Japan
+Mumbai
+Brazil
+Buenos Aires
+
+São Paulo
+Rio de Janeiro
+
+Jakarta
+South Korea
+Korea
+Seoul
+Egypt
+Cairo
+Lahore
+Peru
+Lima
+Bengaluru
+Tehran
+Colombia
+Bogotá
+Baghdad
+Chile
+Santiago
+
+Saint Petersburg
+Alexandria
+South Africa
+Johannesburg
